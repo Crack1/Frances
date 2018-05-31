@@ -1,11 +1,3 @@
-
-ALT + 130 = é| à = 0224;| À = 0192;| â = 0226; | Â = 0194;
-ALT + 160 = á| è = 0232;| È = 0200;| ê = 0234; | Ê = 0202;
-ALT + 161 = í| ì = 0236;| Ì = 0204;| î = 0238; | Î = 0206;
-ALT + 162 = ó| ò = 0242;| Ò = 0210;| ô = 0244; | Ô = 0212;
-ALT + 163 = ú| ù = 0249;| Ù = 0217.| û = 0251; | Û = 0219.
-ALT + 128 = Ç
-
 los numeros -> le nombres
 1 - a (nasal)
 
@@ -41,3 +33,23 @@ c'est une femme intelligente
 
 le film est intéressant et le livre est intéressant aussi
 la voiture est chère et la maison aussi est chère
+-----------------------
+AVOIR
+------------------------
+J'ai    un voiture
+Ill a   un vélo noir
+Tu as   un travaill
+j'ai    un chien et moi aussi J'ai un chien
+
+/*Ill a et Elle a*/
+
+Frederic a un travail intéressant
+
+
+
+ALT + 130 = é| à = 0224;| À = 0192;| â = 0226; | Â = 0194;
+ALT + 160 = á| è = 0232;| È = 0200;| ê = 0234; | Ê = 0202;
+ALT + 161 = í| ì = 0236;| Ì = 0204;| î = 0238; | Î = 0206;
+ALT + 162 = ó| ò = 0242;| Ò = 0210;| ô = 0244; | Ô = 0212;
+ALT + 163 = ú| ù = 0249;| Ù = 0217.| û = 0251; | Û = 0219.
+ALT + 128 = Ç

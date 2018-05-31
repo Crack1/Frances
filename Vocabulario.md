@@ -1,10 +1,3 @@
-ALT + 130 = é| à = 0224;| À = 0192;| â = 0226; | Â = 0194;
-ALT + 160 = á| è = 0232;| È = 0200;| ê = 0234; | Ê = 0202;
-ALT + 161 = í| ì = 0236;| Ì = 0204;| î = 0238; | Î = 0206;
-ALT + 162 = ó| ò = 0242;| Ò = 0210;| ô = 0244; | Ô = 0212;
-ALT + 163 = ú| ù = 0249;| Ù = 0217.| û = 0251; | Û = 0219.
-ALT + 128 = Ç
-
 cher -> caro
 et -> Y -- e
 très -> muy
@@ -28,3 +21,31 @@ aussi -> tambien -- osi
 quoi -> que --cua
 neuf -> nuevo --noof
 quoi de neuf? -> que hay de nuevo -- cuadnuf
+avoir -> tener
+vélo -> bicicleta (Masculino)
+chien -> perro -- chia
+frère -> hermano -- frer
+soeur -> hermana -- serg
+moi aussi -> yo tambien
+blanc -> blanco
+quai -> anden -- ke
+enfant -> hijo -- anfan
+jours -> dias
+lundi -> lunes
+mardi -> marter
+mercredi -> miercoles
+jeudi -> jueves
+vendredi -> viernes
+samedi -> sabado
+dimanche -> domingo
+problème -> problema
+chat -> gato -> sha
+n'est-ce pas? -> verdad -- nespa
+
+
+ALT + 130 = é| à = 0224;| À = 0192;| â = 0226; | Â = 0194;
+ALT + 160 = á| è = 0232;| È = 0200;| ê = 0234; | Ê = 0202;
+ALT + 161 = í| ì = 0236;| Ì = 0204;| î = 0238; | Î = 0206;
+ALT + 162 = ó| ò = 0242;| Ò = 0210;| ô = 0244; | Ô = 0212;
+ALT + 163 = ú| ù = 0249;| Ù = 0217.| û = 0251; | Û = 0219.
+ALT + 128 = Ç
