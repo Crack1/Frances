@@ -41,7 +41,29 @@ dimanche -> domingo
 problème -> problema
 chat -> gato -> sha
 n'est-ce pas? -> verdad -- nespa
+toi aussi -> tu tambien
+Ça te dit de -> Te apetece..? /*sadit da*/ usea esta expresion cuando quieras hacer alho y quieras proponerselo a alguien. va seguideo del vervo en infinitivo.
 
+Ça te dit de prendre un cafe?
+
+Soirée -> fiesta --
+nouveau -> nuevo ->nuvoo
+nouvelle -> nueva -- nuveel
+vieux ->  viejo -- viee
+vieille -> vieja --- vielli
+montre -> reloj
+
+/*usamos nouvel y vieil cuando el sustantivo es masculino que los acompana  tiene sonido vocalico*/
+
+nouvel ordinateur 
+vieil ordinateur 
+
+dans -> en -- dan
+
+
+ou -- se pronuncia como u
+eau -- se pronuncia como o
+eu -- se pronunci oo
 
 ALT + 130 = é| à = 0224;| À = 0192;| â = 0226; | Â = 0194;
 ALT + 160 = á| è = 0232;| È = 0200;| ê = 0234; | Ê = 0202;

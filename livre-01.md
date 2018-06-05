@@ -45,6 +45,9 @@ j'ai    un chien et moi aussi J'ai un chien
 
 Frederic a un travail intéressant
 
+Moi, J'ai une grande voiture et toi aussi, tu as une grande voiture
+
+
 
 
 ALT + 130 = é| à = 0224;| À = 0192;| â = 0226; | Â = 0194;
